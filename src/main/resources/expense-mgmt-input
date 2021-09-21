@@ -1,0 +1,13 @@
+
+7
+[email, name]
+abc@gmail.com abc
+def@gmail.com def
+
+1
+[total, email, currency, strategy(real, percent)]
+100 abc@gmail.com INR real
+
+4
+[email, totalShare, currency, expenseId]
+def@gmail.com 20 INR 1
